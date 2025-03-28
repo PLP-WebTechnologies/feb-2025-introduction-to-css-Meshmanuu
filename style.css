@@ -1,0 +1,24 @@
+/* style.css */
+
+/* Selector 1: Class selector for text styling */
+.text-highlight {
+    color: #4CAF50; /* Green color */
+    font-family: 'Arial', sans-serif; /* Arial font */
+    font-size: 18px;
+    margin: 10px 0; /* Top and bottom margin */
+}
+
+/* Selector 2: ID selector for header styling */
+#main-header {
+    background-color: #f2f2f2; /* Light gray background */
+    padding: 20px; /* Padding inside the header */
+    border: 2px solid #ddd; /* Light gray border */
+    text-align: center; /* Centered text */
+}
+
+/* Selector 3: Element selector for image styling */
+img {
+    max-width: 100%; /* Responsive image */
+    border-radius: 8px; /* Rounded corners */
+    margin: 20px 0; /* Margin above and below the image */
+}
