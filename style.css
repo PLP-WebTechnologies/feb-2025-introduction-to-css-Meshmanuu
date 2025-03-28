@@ -18,7 +18,8 @@
 
 /* Selector 3: Element selector for image styling */
 img {
-    max-width: 100%; /* Responsive image */
-    border-radius: 8px; /* Rounded corners */
+    max-width: 50%; /* Responsive image */
+    border-radius: 50%; /* Rounded corners */
     margin: 20px 0; /* Margin above and below the image */
+    float: right;
 }
